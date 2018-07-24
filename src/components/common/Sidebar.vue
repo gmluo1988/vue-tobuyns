@@ -31,17 +31,17 @@
                 collapse: false,
                 items: [
                     {
-                        icon: 'el-icon-setting',
+                        icon: 'el-icon-document',
                         index: 'dashboard',
                         title: '系统首页'
                     },
                     {
-                        icon: 'el-icon-tickets',
+                        icon: 'el-icon-star-on',
                         index: 'usermanage',
                         title: '用户管理'
                     },
 					{
-						icon: 'el-icon-tickets',
+						icon: 'el-icon-success',
 						index: 'bebetterme',
 						title: 'BeBetterMe'
 					},
@@ -51,7 +51,7 @@
 						title: '搜索报文'
 					},
                     {
-                        icon: 'el-icon-tickets',
+                        icon: 'el-icon-bell',
                         index: 'intervention',
                         title: '人工干预',
                         subs: [{
@@ -64,7 +64,7 @@
 						}]
                     },
 					{
-						icon: 'el-icon-tickets',
+						icon: 'el-icon-news',
 						index: 'singlefunction',
 						title: '单个按钮',
 						subs: [{
@@ -73,7 +73,7 @@
 						}]
 					},
                     {
-                        icon: 'el-icon-tickets',
+                        icon: 'el-icon-printer',
                         index: '403404test',
                         title: '403/404页面测试',
                         subs: [{

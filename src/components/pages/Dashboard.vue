@@ -6,7 +6,7 @@
                     <el-col>
                         <el-card shadow="hover" class="mgb20">
                             <div class="user-info">
-                                <img src="static/img/img.jpg" class="user-avator" alt="">
+                                <img src="../../assets/img/pyy1.jpg" class="user-avator" alt="">
                                 <div class="user-info-cont">
                                     <div class="user-info-name">{{name}}</div>
                                     <div>{{role}}</div>
@@ -20,9 +20,9 @@
                                 <span>项目进度</span>
                             </div>
                             用户管理功能
-                            <el-progress :percentage="60" color="#f1e05a"></el-progress>
+                            <el-progress :percentage="100" color="#f1e05a"></el-progress>
                             BeBetterMe功能
-                            <el-progress :percentage="60"></el-progress>
+                            <el-progress :percentage="100"></el-progress>
                             搜索报文管理
                             <el-progress :percentage="10" color="#f56c6c"></el-progress>
 							人工干预监控功能

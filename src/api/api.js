@@ -1,6 +1,9 @@
 import axios from 'axios';
 
-let base = 'http://localhost:8080/bebetterme';
+// let base = 'http://localhost:8080/bebetterme';//本地服务接口地址
+
+let base = 'http://106.14.159.20:8080/ssmbebetterme';//阿里云服务接口地址
+
 
 //用户管理使用到的接口
 //分页查询用户信息
